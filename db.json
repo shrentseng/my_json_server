@@ -1,0 +1,52 @@
+{
+  Posts: [
+      {
+          "PostID": 1,
+          "Likes": 3,
+          "Unlikes": 0,
+          "Message": "Which came first? The Chicken or the egg?",
+          "CourseName": "Programming Languages",
+          "CourseID": 1,
+          "FirstName": "Shren",
+          "LastName": "Tseng",
+          "UserID": 1,
+          "ChildComments": [3]
+      },
+      {
+          "PostID": 2,
+          "Likes": 2,
+          "Unlikes": 2,
+          "Message": "Need help!",
+          "CourseName": "Principles & Techniques of Data Science",
+          "CourseID": 3,
+          "FirstName": "Phuoc",
+          "LastName": "Do",
+          "UserID": 2,
+          "ChildComments": []
+      },
+      {
+          "PostID": 3,
+          "Likes": 1,
+          "Unlikes": 0,
+          "Message": "Corporations are required to file a tax return annually regardless of their taxable income. T/F",
+          "CourseName": "Operating Systems and System Programming",
+          "CourseID": 5,
+          "FirstName": "Cindy",
+          "LastName": "Ko",
+          "UserID": 3,
+          "ChildComments": [5]
+      },
+      {
+          "PostID": 4,
+          "Likes": 10001,
+          "Unlikes": 1,
+          "Message": "Trying to find a member for the final project. Anyone down to team up?",
+          "CourseName": "Data Structures and Algorithms I",
+          "CourseID": 7,
+          "FirstName": "Oscar",
+          "LastName": "Cheng",
+          "UserID": 4,
+          "ChildComments": [7]
+      }
+  ],
+}
